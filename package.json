@@ -14,7 +14,7 @@
     "lint": "next lint && eslint . --max-warnings 0"
   },
   "dependencies": {
-    "next": "15.1.4",
+    "next": "15.2.3",
     "next-umami": "^1.0.0",
     "phosphor-react": "^1.4.1",
     "react": "^19.0.0",
